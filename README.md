@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lamonin
+- 👀 I’m interested in Gamedev
+- 🌱 I’m currently learning Unity, C#, Defold, Lua, C++
