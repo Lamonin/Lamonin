@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamonin&label=Profile%20views&color=0e75b6&style=flat" alt="lamonin" /> </p>
 
-- 🌱 I’m currently learning **Unity, C#, Python, React, JavaScript, TypeScript**
+- 🌱 I’m currently learning **Unity, C#, Python, React, TypeScript**
 
-- 📫 How to reach me **rolshchikov.me@gmail.com**
+- 📫 How to reach me **rolshchikov.maxim@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
