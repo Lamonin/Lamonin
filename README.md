@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamonin&label=Profile%20views&color=0e75b6&style=flat" alt="lamonin" /> </p>
 
-- 🌱 I’m currently learning **Unity, C#, Python, React, TypeScript**
+- 🌱 I’m currently learning **Python, Data Science, Machine Learning, Unity, C#**
 
 - 📫 How to reach me **rolshchikov.maxim@gmail.com**
 
